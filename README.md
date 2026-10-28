@@ -64,5 +64,22 @@
 > Full detail: **[Where this data comes from](https://apievangelist.com/about/where-our-data-comes-from)**
 <!-- API-EVANGELIST-PROVENANCE:END -->
 
-Kavita is a company surfaced via the API Evangelist harvest backlog (source: new-submission) and added to the network as a stub for full-pipeline profiling.
-- https://kavitareader.com/
+Kavita is an open-source, self‑hosted digital library platform that lets users organize, read, and share EPUB, PDF, comics, and manga collections. It offers built‑in readers with multiple viewing modes, OPDS support, rich metadata handling, user management via OIDC or native logins, and extensive customization options. The platform is free, privacy‑friendly, and can be deployed quickly to serve personal or community reading needs.
+
+**Areas:** Company · Digital Library · Open Source · Self-Hosted · EPUB · PDF
+
+## Where to find this API
+
+Links to the company's own pages. This repository publishes no copy of their specifications — the canonical document is theirs and lives at the URLs below.
+
+- [Website](https://kavitareader.com/)
+- [Documentation](https://wiki.kavitareader.com/)
+- [Getting started](https://wiki.kavitareader.com/getting-started/)
+- [Support](https://discord.gg/b52wT37kt7)
+- [GitHub](https://github.com/Kareadita)
+
+**APIs profiled:** 48
+
+## API Evangelist rating
+
+Not yet rated. See [apis.io/providers/kavita/](https://apis.io/providers/kavita/).
